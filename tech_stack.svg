@@ -1,0 +1,39 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="900" height="260" rx="16" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Title -->
+  <text x="30" y="40" fill="#c9d1d9" font-size="18" font-family="Segoe UI, Arial">Tech Stack</text>
+
+  <!-- Languages -->
+  <text x="40" y="80" fill="#8b949e" font-size="12">LANGUAGE</text>
+  <text x="40" y="110" fill="#c9d1d9" font-size="14">Python</text>
+
+  <!-- Backend -->
+  <text x="200" y="80" fill="#8b949e" font-size="12">BACKEND</text>
+  <text x="200" y="110" fill="#c9d1d9" font-size="14">FastAPI</text>
+
+  <!-- ML -->
+  <text x="360" y="80" fill="#8b949e" font-size="12">ML / DATA</text>
+  <text x="360" y="110" fill="#c9d1d9" font-size="14">
+    PyTorch • Pandas • NumPy • Scikit-learn • Seaborn
+  </text>
+
+  <!-- AI -->
+  <text x="40" y="160" fill="#8b949e" font-size="12">AI</text>
+  <text x="40" y="190" fill="#c9d1d9" font-size="14">
+    LangChain • LangGraph
+  </text>
+
+  <!-- Database -->
+  <text x="360" y="160" fill="#8b949e" font-size="12">DATABASE</text>
+  <text x="360" y="190" fill="#c9d1d9" font-size="14">PostgreSQL</text>
+
+  <!-- Tools -->
+  <text x="600" y="80" fill="#8b949e" font-size="12">TOOLS</text>
+  <text x="600" y="110" fill="#c9d1d9" font-size="14">
+    Docker • n8n
+  </text>
+
+</svg>
