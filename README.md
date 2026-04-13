@@ -8,11 +8,14 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 - Thinking more about **system behavior than just model accuracy**
 
 
-<span>
-<img width="1424" height="718" src="https://github.com/user-attachments/assets/e4aef57a-c4ee-4c82-a3c0-97f78d66971d" />
-</span>
+## ⚙️ Tech Stack
 
-
+- **Languages:** `Python`  
+- **Backend:**   `FastAPI`  
+- **ML/Data:**   `PyTorch` • `Pandas` • `NumPy` • `Scikit-learn` • `Seaborn`  
+- **AI:**        `LangChain` • `LangGraph`  
+- **Database:**  `PostgreSQL`  
+- **Tools:**     `Docker` • `n8n`  
 
 
 ## 🚀 Projects
@@ -24,7 +27,7 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 Transforms raw chat data into meaningful patterns, activity insights, and visual summaries.
 
 **Built with**  
-Python • FastAPI • Data Processing  
+`Python` • `FastAPI` • Data Processing  
 
 **Focus**  
 Pattern detection • Peak activity • User behavior  
@@ -38,7 +41,7 @@ Pattern detection • Peak activity • User behavior
 Applies neural style transfer to transform images into different visual styles.
 
 **Built with**  
-PyTorch • OpenCV  
+`PyTorch` • `OpenCV`  
 
 **Focus**  
 Inference pipeline • Image transformation • Output consistency  
@@ -52,7 +55,7 @@ Inference pipeline • Image transformation • Output consistency
 Multi-agent system that retrieves, reasons, and generates answers from user data.
 
 **Built with**  
-LangGraph • LangChain • Qdrant • FastAPI  
+`LangGraph` • `LangChain` • `Qdrant` • `FastAPI`  
 
 **Focus**  
 Agent workflows • Retrieval + reasoning • Response quality  
