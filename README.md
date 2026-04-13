@@ -12,29 +12,45 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 <img width="1424" height="718" src="https://github.com/user-attachments/assets/e4aef57a-c4ee-4c82-a3c0-97f78d66971d" />
 </span>
 
+
 ## 🚀 Projects
 
-### 🔍 Chat Analyzer
-Turns raw chat data into meaningful insights with visualizations and summaries.
+### 🔍 Chat Analyzer  
+<sub>Turn conversations into structured insights</sub>
 
-- Built with: FastAPI, Python  
-- Focus: pattern detection, peak activity, user behavior  
-- Direction: adding AI-generated summaries  
+**Overview**  
+Transforms raw chat data into meaningful patterns, activity insights, and visual summaries.
 
----
+**Built with**  
+Python • FastAPI • Data Processing  
 
-### 🎨 Image Stylizer
-Transforms input images into stylized outputs using deep learning models.
-
-- Built with: Python, OpenCV / PyTorch  
-- Focus: image transformation, style transfer  
-- Direction: improving output quality and adding multiple styles  
+**Focus**  
+Pattern detection • Peak activity • User behavior  
 
 ---
 
-### 📚 RAG System
-Question-answering system over documents using retrieval + LLMs.
+### 🎨 Image Stylizer  
+<sub>Convert images into artistic styles</sub>
 
-- Built with: LangChain, LangGraph, Qdrant  
-- Focus: retrieval accuracy, chunking strategies  
-- Direction: improving reasoning + scaling  
+**Overview**  
+Applies neural style transfer to transform images into different visual styles.
+
+**Built with**  
+PyTorch • OpenCV  
+
+**Focus**  
+Inference pipeline • Image transformation • Output consistency  
+
+---
+
+### 📚 Smart Notes  
+<sub>Documents → Agents → Context-Aware Answers</sub>
+
+**Overview**  
+Multi-agent system that retrieves, reasons, and generates answers from user data.
+
+**Built with**  
+LangGraph • LangChain • Qdrant • FastAPI  
+
+**Focus**  
+Agent workflows • Retrieval + reasoning • Response quality  
