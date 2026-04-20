@@ -31,7 +31,10 @@ Deep learning pipeline that detects and reads license plates from images, includ
 `YOLOv8` • `FastAPI` • `React` • `fast-plate-ocr`
 
 **Focus**  
-Object detection • OCR accuracy • Full-stack deployment
+Object detection • OCR accuracy • Full-stack deployment  
+
+**Visit**  
+https://plate-vision-deploy.vercel.app/
 
 ---
 
@@ -47,9 +50,12 @@ Self-healing sentiment classifier that monitors drift, auto-retrains when accura
 **Focus**  
 Continuous learning • Model observability • Production ML • SHAP explainability
 
+**Visit**  
+https://sentiment-sys-deploy.vercel.app/
+
 ---
 
-### 📚 Smart Notes  - https://smart-notes-deploy.vercel.app/
+### 📚 Smart Notes  
 <sub>Documents → Agents → Context-Aware Answers</sub>
 
 **Overview**  
@@ -59,7 +65,10 @@ Multi-agent system that retrieves, reasons, and generates answers from user data
 `LangGraph` • `LangChain` • `Qdrant` • `FastAPI`  
 
 **Focus**  
-Agent workflows • Retrieval + reasoning • Response quality
+Agent workflows • Retrieval + reasoning • Response quality  
+
+**Visit**  
+https://smart-notes-deploy.vercel.app/
 
 ## Other Projects
 
@@ -75,6 +84,9 @@ Transforms raw chat data into meaningful patterns, activity insights, and visual
 **Focus**  
 Pattern detection • Peak activity • User behavior  
 
+**Visit**  
+https://chat-analyzer-deploy.onrender.com/
+
 ---
 
 ### 🎨 Image Stylizer  
@@ -88,5 +100,8 @@ Applies neural style transfer to transform images into different visual styles.
 
 **Focus**  
 Inference pipeline • Image transformation • Output consistency  
+
+**Visit**  
+https://image-stylizer-deploy.vercel.app/
 
   
