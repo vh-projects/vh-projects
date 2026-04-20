@@ -49,7 +49,7 @@ Continuous learning • Model observability • Production ML • SHAP explainab
 
 ---
 
-### 📚 Smart Notes  
+### 📚 Smart Notes  - https://smart-notes-deploy.vercel.app/
 <sub>Documents → Agents → Context-Aware Answers</sub>
 
 **Overview**  
