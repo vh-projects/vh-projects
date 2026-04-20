@@ -20,6 +20,49 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 
 ## 🚀 Projects
 
+
+### 🚗 PlateVision  
+<sub>Image → Detection → Plate Recognition</sub>
+
+**Overview**  
+Deep learning pipeline that detects and reads license plates from images, including multi-vehicle scenes.
+
+**Built with**  
+`YOLOv8` • `FastAPI` • `React` • `fast-plate-ocr`
+
+**Focus**  
+Object detection • OCR accuracy • Full-stack deployment
+
+---
+
+### 🎭 SentimentSys  
+<sub>Text → Analysis → Explanation</sub>  
+
+**Overview**  
+Self-healing sentiment classifier that monitors drift, auto-retrains when accuracy drops, and explains predictions at word-level.
+
+**Built with**  
+`DistilBERT` • `SHAP` • `FastAPI` • `React` • `MLflow` • `Transformers`
+
+**Focus**  
+Continuous learning • Model observability • Production ML • SHAP explainability
+
+---
+
+### 📚 Smart Notes  
+<sub>Documents → Agents → Context-Aware Answers</sub>
+
+**Overview**  
+Multi-agent system that retrieves, reasons, and generates answers from user data.
+
+**Built with**  
+`LangGraph` • `LangChain` • `Qdrant` • `FastAPI`  
+
+**Focus**  
+Agent workflows • Retrieval + reasoning • Response quality
+
+## Other Projects
+
 ### 🔍 Chat Analyzer  
 <sub>Turn conversations into structured insights</sub>
 
@@ -46,16 +89,4 @@ Applies neural style transfer to transform images into different visual styles.
 **Focus**  
 Inference pipeline • Image transformation • Output consistency  
 
----
-
-### 📚 Smart Notes  
-<sub>Documents → Agents → Context-Aware Answers</sub>
-
-**Overview**  
-Multi-agent system that retrieves, reasons, and generates answers from user data.
-
-**Built with**  
-`LangGraph` • `LangChain` • `Qdrant` • `FastAPI`  
-
-**Focus**  
-Agent workflows • Retrieval + reasoning • Response quality  
+  
