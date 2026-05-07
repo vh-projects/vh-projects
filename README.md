@@ -79,7 +79,7 @@ https://smart-notes-deploy.vercel.app/
 Transforms raw chat data into meaningful patterns, activity insights, and visual summaries.
 
 **Built with**  
-`Python` • `FastAPI` • Data Processing  
+`Python` • `FastAPI` • `Data Processing`  
 
 **Focus**  
 Pattern detection • Peak activity • User behavior  
