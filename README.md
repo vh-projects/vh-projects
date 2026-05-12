@@ -38,20 +38,20 @@ https://plate-vision-deploy.vercel.app/
 
 ---
 
-### 🎭 SentimentSys  
-<sub>Text → Analysis → Explanation</sub>  
+### 🎨 Image Stylizer  
+<sub>Convert images into artistic styles</sub>
 
 **Overview**  
-Self-healing sentiment classifier that monitors drift, auto-retrains when accuracy drops, and explains predictions at word-level.
+Applies neural style transfer to transform images into different visual styles.
 
 **Built with**  
-`DistilBERT` • `SHAP` • `FastAPI` • `React` • `MLflow` • `Transformers`
+`PyTorch` • `OpenCV`  
 
 **Focus**  
-Continuous learning • Model observability • Production ML • SHAP explainability
+Inference pipeline • Image transformation • Output consistency  
 
 **Visit**  
-https://sentiment-sys-deploy.vercel.app/
+https://image-stylizer-deploy.vercel.app/
 
 ---
 
@@ -69,6 +69,24 @@ Agent workflows • Retrieval + reasoning • Response quality
 
 **Visit**  
 https://smart-notes-deploy.vercel.app/
+
+---
+
+### 🎭 SentimentSys  
+<sub>Text → Analysis → Explanation</sub>  
+
+**Overview**  
+Self-healing sentiment classifier that monitors drift, auto-retrains when accuracy drops, and explains predictions at word-level.
+
+**Built with**  
+`DistilBERT` • `SHAP` • `FastAPI` • `React` • `MLflow` • `Transformers`
+
+**Focus**  
+Continuous learning • Model observability • Production ML • SHAP explainability
+
+**Visit**  
+https://sentiment-sys-deploy.vercel.app/
+
 
 ## Other Projects
 
@@ -89,19 +107,3 @@ https://chat-analyzer-deploy.onrender.com/
 
 ---
 
-### 🎨 Image Stylizer  
-<sub>Convert images into artistic styles</sub>
-
-**Overview**  
-Applies neural style transfer to transform images into different visual styles.
-
-**Built with**  
-`PyTorch` • `OpenCV`  
-
-**Focus**  
-Inference pipeline • Image transformation • Output consistency  
-
-**Visit**  
-https://image-stylizer-deploy.vercel.app/
-
-  
