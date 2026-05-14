@@ -12,9 +12,9 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 
 - **Languages:** `Python`  
 - **Backend:**   `FastAPI`  
-- **ML/Data:**   `PyTorch` • `Pandas` • `NumPy` • `Scikit-learn` • `Seaborn`  
+- **ML/Data:**   `PyTorch` • `Pandas` • `NumPy` • `Scikit-learn` • `OpenCV` • `Seaborn`  
 - **AI:**        `LangChain` • `LangGraph`  
-- **Database:**  `PostgreSQL`  
+- **Database:**  `MongoDB`  
 - **Tools:**     `Docker` • `n8n`  
 
 
