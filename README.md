@@ -101,8 +101,6 @@ Self-healing sentiment classifier that monitors drift, auto-retrains when accura
 **Focus**  
 Continuous learning • Model observability • Production ML • SHAP explainability
 
-**Visit**  
-https://sentiment-sys-deploy.vercel.app/
 
 
 ## Other Projects
