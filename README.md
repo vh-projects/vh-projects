@@ -28,7 +28,7 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 AI-powered urban scene understanding system that segments city environments and generates analytics from a single image upload.
 
 **Built with**  
-`SegFormer` • `Mapillary Vistas v2.0` • `Llama-3.1-8b` • `Transformers` • `OpenCV` • `PyTorch`
+`Mask2Former` • `Mapillary Vistas v2.0` • `Llama-3.1-8b` • `Transformers` • `OpenCV` • `PyTorch`
 
 **Focus**  
 Semantic segmentation • Urban analytics • Explainable AI • LLM-powered reporting  
