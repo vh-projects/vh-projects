@@ -21,6 +21,26 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 ## 🚀 Projects
 
 
+### 🏢 Company Research Agent
+<sub>Company → Research → Executive Report</sub>
+
+**Overview**
+AI-powered research agent that validates, analyzes, and recommends AI adoption strategies for any company using an agentic LangGraph workflow.
+
+**Built with**
+`LangGraph` • `FastAPI` • `React` • `Llama 3.2` • `Tavily Search`
+
+**Focus**
+Agentic AI • LLM workflows • Business analysis • Decision support
+
+**Highlights**
+Company validation • Parallel web search • Evidence-driven reasoning • Executive-ready reports
+
+**Visit**
+https://link
+
+---
+
 ### 🏙️ UrbanLens  
 <sub>Image → Segmentation → Insights & Report</sub>
 
