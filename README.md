@@ -36,7 +36,7 @@ Agentic AI • LLM workflows • Business analysis • Decision support
 **Highlights**
 Company validation • Parallel web search • Evidence-driven reasoning • Executive-ready reports
 
-**Visit**
+**Visit**  
 https://co-research-agentic.vercel.app/
 
 ---
