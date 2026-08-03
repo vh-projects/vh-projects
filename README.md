@@ -28,7 +28,7 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 AI-powered research agent that validates, analyzes, and recommends AI adoption strategies for any company using an agentic LangGraph workflow.
 
 **Built with**
-`LangGraph` • `FastAPI` • `React` • `Llama 3.2` • `Tavily Search`
+`LangGraph` • `FastAPI` • `Groq API` • `React` • `Llama 3.2` • `Tavily Search`
 
 **Focus**
 Agentic AI • LLM workflows • Business analysis • Decision support
