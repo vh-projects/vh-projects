@@ -75,23 +75,6 @@ https://plate-vision-deploy.vercel.app/
 
 ---
 
-### 🎨 Image Stylizer  
-<sub>Convert images into artistic styles</sub>
-
-**Overview**  
-Applies neural style transfer to transform images into different visual styles.
-
-**Built with**  
-`PyTorch` • `OpenCV`  
-
-**Focus**  
-Inference pipeline • Image transformation • Output consistency  
-
-**Visit**  
-https://image-stylizer-deploy.vercel.app/
-
----
-
 ### 📚 Smart Notes  
 <sub>Documents → Agents → Context-Aware Answers</sub>
 
@@ -105,9 +88,27 @@ Multi-agent system that retrieves, reasons, and generates answers from user data
 Agent workflows • Retrieval + reasoning • Response quality  
 
 **Visit**  
-https://smart-notes-deploy.vercel.app/
+https://smart-notes-deploy.vercel.app/  
+
+---  
+
+### 🎨 Image Stylizer  
+<sub>Convert images into artistic styles</sub>
+
+**Overview**  
+Applies neural style transfer to transform images into different visual styles.
+
+**Built with**  
+`PyTorch` • `OpenCV`  
+
+**Focus**  
+Inference pipeline • Image transformation • Output consistency  
+
+**Visit**  
+https://image-stylizer-deploy.vercel.app/  
 
 ---
+## Other Projects
 
 ### 🎭 SentimentSys  
 <sub>Text → Analysis → Explanation</sub>  
@@ -121,9 +122,7 @@ Self-healing sentiment classifier that monitors drift, auto-retrains when accura
 **Focus**  
 Continuous learning • Model observability • Production ML • SHAP explainability
 
-
-
-## Other Projects
+---
 
 ### 🔍 Chat Analyzer  
 <sub>Turn conversations into structured insights</sub>
