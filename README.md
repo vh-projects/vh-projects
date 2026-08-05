@@ -99,11 +99,13 @@ https://smart-notes-deploy.vercel.app/
 Applies neural style transfer to transform images into different visual styles.
 
 **Built with**  
-`PyTorch` • `OpenCV`  
+`PyTorch` • `OpenCV` • `FastAPI`  
 
 **Focus**  
 Inference pipeline • Image transformation • Output consistency  
 
+**Visit**  
+https://image-stylizer-deploy.vercel.app/  
 
 ---
 ## Other Projects
