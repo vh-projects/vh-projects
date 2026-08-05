@@ -104,8 +104,6 @@ Applies neural style transfer to transform images into different visual styles.
 **Focus**  
 Inference pipeline • Image transformation • Output consistency  
 
-**Visit**  
-https://image-stylizer-deploy.vercel.app/  
 
 ---
 ## Other Projects
