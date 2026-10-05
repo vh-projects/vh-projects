@@ -14,7 +14,7 @@ I’m interested in building AI systems that go beyond demos — systems that ca
 - **Backend:**   `FastAPI`  
 - **ML/Data:**   `PyTorch` • `Pandas` • `NumPy` • `Scikit-learn` • `OpenCV` • `Seaborn`  
 - **AI:**        `LangChain` • `LangGraph`  
-- **Database:**  `MongoDB`  
+- **Database:**  `MySQL`  
 - **Tools:**     `Docker` • `n8n`  
 
 
